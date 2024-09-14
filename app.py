@@ -1,4 +1,4 @@
-import streamlit as st
+teswimport streamlit as st
 import openai
 
 # Function to query GPT API
@@ -14,7 +14,7 @@ def chatbot(prompt):
 
 # Streamlit app starts here
 def main():
-    st.title("GPT Chatbot")
+    st.title("Venkateswari Chatbot")
     st.write("Enter your question below:")
 
     # Input text box for user
