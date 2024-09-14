@@ -1,4 +1,4 @@
-teswimport streamlit as st
+import streamlit as st
 import openai
 
 # Function to query GPT API
